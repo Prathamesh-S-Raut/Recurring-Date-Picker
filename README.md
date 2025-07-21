@@ -76,3 +76,6 @@ npm install
 3. Start the Development Server
 npm run dev
 
+## 📸 Screenshot
+
+![App Screenshot](screenshot/screenshot1.png)
