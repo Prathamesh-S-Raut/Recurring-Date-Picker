@@ -40,7 +40,6 @@ This project is a reusable **Recurring Date Picker** component built using **Rea
 - ✅ Integration test for full RecurringPicker component
 
 > Run tests using:
-```bash
   npm test
 
 
@@ -77,3 +76,4 @@ npm install
 
 3. Start the Development Server
 npm run dev
+
