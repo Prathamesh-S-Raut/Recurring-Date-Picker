@@ -41,9 +41,10 @@ This project is a reusable **Recurring Date Picker** component built using **Rea
 
 > Run tests using:
 ```bash
-npm test
+  npm test
 
-# 🏗️ Folder Structure
+
+🏗️ Folder Structure
 src
 ├── components/
 │   ├── CalendarPreview.jsx
