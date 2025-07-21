@@ -40,10 +40,10 @@ This project is a reusable **Recurring Date Picker** component built using **Rea
 - ✅ Integration test for full RecurringPicker component
 
 > Run tests using:
-  npm test
+ ``` npm test
 
 
-🏗️~~ Folder Structure
+🏗️Folder Structure
 src
 ├── components/
 │   ├── CalendarPreview.jsx
