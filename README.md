@@ -73,12 +73,6 @@ cd recurring-date-picker
 2. Install Dependencies
 npm install
 
-
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png)
-
-
 3. Start the Development Server
 npm run dev
 
