@@ -67,3 +67,13 @@ src
 
 # 📦 Getting Started
 1. Clone the Repository
+
+git clone https://github.com/your-username/recurring-date-picker.git
+cd recurring-date-picker
+
+2. Install Dependencies
+npm install
+
+
+3. Start the Development Server
+npm run dev
